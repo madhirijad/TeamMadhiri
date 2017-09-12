@@ -5,8 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace TeamMadhiri
-{
+{z
     class person
     {
+        public string Name { get; set; }
+        public string Address { get; set; }
     }
 }
